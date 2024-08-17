@@ -1,0 +1,22 @@
+#latest{
+    background-color: purple;
+}
+
+.navigation{
+    margin: 10px;
+}
+
+#blog > h1 {
+    color: blue;
+}
+
+a:hover {
+    color: orange;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12px;
+    text-transform: uppercase;
+    text-decoration: underline red solid 5px;
+}
